@@ -3,8 +3,8 @@ class Ffx < Formula
 
   desc "Beautiful, friendly frontend for FFmpeg - btop-inspired, wizard-driven"
   homepage "https://github.com/ProductionVideo/ffx"
-  url "https://github.com/ProductionVideo/ffx/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "9f571cd1db96d6d330918c8498386debc5988b66f7d9dcb74126794a7807ce03"
+  url "https://github.com/ProductionVideo/ffx/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "a71dcfa00f18d20d2f3d8ff273cec8e31e04db7087384f5fd5856859d2515e78"
   license "MIT"
 
   depends_on "ffmpeg"
